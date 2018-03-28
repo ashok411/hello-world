@@ -1,1 +1,3 @@
 hi asld welcome to git
+
+learn as much as possible
